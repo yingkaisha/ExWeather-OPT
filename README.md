@@ -1,7 +1,15 @@
 # ExWeather-OPT
 Operational severe weather prediction system
 
-Usage:
+# Dependency
+
+* h5py==2.10.0
+* numpy==1.20.3
+* pygrib==2.1.4
+* scipy==1.9.3
+* tensorflow==2.4.1
+
+# Usage
 * Edit namelist.py
 * `python main.py 2021 2 1` e.g., for 2021 Feb 1st
 * output: a hdf5 file that contains feature vectors and prabilities
