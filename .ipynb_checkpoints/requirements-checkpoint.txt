@@ -1,0 +1,7 @@
+h5py==2.10.0
+keras_unet_collection==0.1.13
+numpy==1.20.3
+pandas==1.5.2
+pygrib==2.1.4
+scipy==1.9.3
+tensorflow==2.4.1

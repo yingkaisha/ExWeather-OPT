@@ -28,7 +28,6 @@ args = vars(parser.parse_args())
 # ===================================== #
 date_temp = datetime(int(args['year']), int(args['mon']), int(args['day']), 0, 0)
 # ===================================== #
-leads = [2, 3, 4, 5, 6, 7, 8,]
 
 N_lead = len(leads)
 N_var = len(var_names)

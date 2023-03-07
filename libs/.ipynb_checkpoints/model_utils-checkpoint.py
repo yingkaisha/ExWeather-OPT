@@ -5,7 +5,6 @@ from tensorflow.keras import backend
 from tensorflow.keras import layers
 from tensorflow.keras import utils
 from tensorflow.keras import Model
-from keras_unet_collection import utils as k_utils
 
 def dummy_loader(model_path):
     '''
